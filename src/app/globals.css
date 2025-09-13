@@ -1,6 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Share+Tech&display=swap');
 @import "tailwindcss";
 
-:root {
+
+@theme { 
+  --font-primary: "Pacifico", "cursive";
+  --font-secondary: "Share Tech", "sans-serif";
+}
+
+/* :root {
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -18,9 +25,11 @@
     --foreground: #ededed;
   }
 }
+*/
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  /* background: var(--background);
+  color: var(--foreground); */
   font-family: Arial, Helvetica, sans-serif;
-}
+} 
+
