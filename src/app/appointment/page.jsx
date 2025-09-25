@@ -19,7 +19,7 @@ export default function Page() {
           <div className="text-justify font-secondary">
                     <div className="text-center bg-yellow-100 rounded-2xl p-4 text-2xl mb-5">
                         <h2 className="text-3xl font-semibold pb-16 ">
-                            Email : ugo.ayivi@hedac.fr
+                            Email : ugo.ayivi@avocat.fr
                         </h2>
                         <h2 className="text-3xl font-semibold">
                             Téléphone : 05 56 23 87 20
