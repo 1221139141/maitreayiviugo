@@ -27,7 +27,7 @@ export default function Footer() {
               <li className="font-bold">CONTACT</li>
               <li className="text-sm/8 text-white">2 Allée d'Orléans
                 33000 BORDEAUX</li>
-              <li className="text-sm/8 text-white hidden sm:block">ugo.ayivi@hedac.fr</li>
+              <li className="text-sm/8 text-white hidden sm:block">ugo.ayivi@avocat.fr</li>
               <li className="text-sm/8 text-white hidden sm:block">05 56 23 87 20</li>
             </ul>
           </div>
